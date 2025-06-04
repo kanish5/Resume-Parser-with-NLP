@@ -64,3 +64,18 @@ json
   ],
   "skills": ["Python", "SQL", "Pandas", "Power BI", "Scikit-learn", "Excel"]
 }
+
+---
+
+## Future Enhancements
+	•	Add PDF drag-and-drop UI using Streamlit
+	•	Extract education, experience, and certifications
+	•	Train a custom NLP model using labelled resumes
+
+ ---
+
+ ## Autor
+
+👤 Kanish Tyagi
+📫 kanishtyagi123@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/kanishtyagi123) | [GitHub](https://github.com/kanish5)
